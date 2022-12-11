@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sourdragon akka Adithya Ds
+- 👋 Hi, I’m @sourdragon aka Adithya Ds
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning the freeCodeCamp curriculum 
 - 💞️ I’m looking to collaborate on any project on web development as I am a complete noob
