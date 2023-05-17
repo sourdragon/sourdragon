@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sourdragon aka Adithya Ds
 - 👀 I’m interested in programming 
 - 🌱 I'm currently working on a app
-- 💞️ I’m looking to collaborate on any project on web development as I am a complete noob
 
 
 <!---
