@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sourdragon aka Adithya Ds
-- 👀 I’m interested in programming 
-- 🌱 I'm currently working on a app
-
+- Im a high school student from India who codes for fun
+- Ig i can call myself a full stack web dev??????
 
 <!---
 sourdragon/sourdragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
